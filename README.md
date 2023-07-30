@@ -1,4 +1,4 @@
-# Database-Project
+# Anthony Store - Mini Grocery Inventory System
 Language: XAMPP PHP & MySQL
 
 Features:
